@@ -17,3 +17,8 @@ pip3 install dhooks
 apt install unzip python3 htop nload vnstat tcpdump screen -y -q
 
 screen -S monitor sh /root/monitor.sh
+
+
+
+
+*Keep and eye out for a much better version ( =*
