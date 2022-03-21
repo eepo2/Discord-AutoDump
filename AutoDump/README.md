@@ -1,5 +1,5 @@
 [Basic Auto Dump Script By Veterxn]
-@official.felix.vpn
+vServices.
 
 Very very basic autodump script to build off of and learn from.
 
